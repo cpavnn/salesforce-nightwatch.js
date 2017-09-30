@@ -1,0 +1,29 @@
+{
+  "name": "salesforce-nightwatch.js",
+  "version": "1.0.0",
+  "description": "Getting started with nightwatch for salesforce",
+  "main": "N",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpavnn/salesforce-nightwatch.js.git"
+  },
+  "keywords": [
+    "nightwatch"
+  ],
+  "author": "Pavan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpavnn/salesforce-nightwatch.js/issues"
+  },
+  "homepage": "https://github.com/cpavnn/salesforce-nightwatch.js#readme"
+}
