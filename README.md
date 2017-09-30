@@ -4,8 +4,6 @@
 
 ## Always refer <http://nightwatchjs.org/> for up to date reference and documentation
 
----
-
 
 ## What is this repo
 * Installing and getting started with nightwatch.js for salesforce
