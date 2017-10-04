@@ -101,6 +101,10 @@
 ### Prepare the scripts to run
 * Open command prompt and type `npm install`
 * Modify the user name and password in file, `.env`
+   ```
+   SALESFORCE_USERNAME = <YOUR-USERNAME>
+   SALESFORCE_PASSWORD = <YOUR-PASSWORD>
+   ```
 * The `.env` file is added to `gitignore` so that we wont be exposing the credentials to others and the file stays locally on your machine
 * Login to the org and make sure, there is no 2 factor auth for the user, or else the script wont be able to login
    - open up the ip ranges for the user's profile, (So that sf wont ask for a verification code)
