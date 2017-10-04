@@ -100,7 +100,7 @@
 
 ### Prepare the scripts to run
 * Open command prompt and type `npm install`
-* Modify the user name and password in file, `.env`
+* Create a `.env` file, and add in the below details
    ```
    SALESFORCE_USERNAME = <YOUR-USERNAME>
    SALESFORCE_PASSWORD = <YOUR-PASSWORD>
